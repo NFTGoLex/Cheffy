@@ -1,6 +1,8 @@
 # Cheffy
 
-
+## Contact us
+You can reach us at:
+misc.appstudio@gmail.com
 
 ## Privacy Policy
 
@@ -28,6 +30,6 @@ We reserve the right to modify this policy at any time. If we make material chan
 
 Contact Us
 
-If you have any questions or concerns about this privacy policy, please contact us at support@cheffyapp.com.
+If you have any questions or concerns about this privacy policy, please contact us at misc.appstudio@gmail.com.
 
 By using Cheffy, you agree to this privacy policy. If you do not agree with this policy, please do not use Cheffy.
